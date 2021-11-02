@@ -11,8 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        I435435
-                dsfdsfp;
         System.out.println("local changes");
         System.out.println("Experimental branch");
         System.out.println("This is youtube branch");
