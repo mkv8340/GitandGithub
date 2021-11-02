@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         I435435
-                dsfdsf
+                dsfdsf;
+        System.out.println("Something added to master branch!");
     }
 }
